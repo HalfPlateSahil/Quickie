@@ -1,4 +1,4 @@
-# TeenTitansGo_TechBlitz26
+# Quickie Framework For Sales & Leads Management
 
 Backend implementation for the PRD-defined invisible CRM and autonomous AI sales agent.
 
